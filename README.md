@@ -15,4 +15,3 @@ Atualmente sou freelancer, desenvolvedor front-end e faço venda de sites seja p
  <br/> - Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JaasielAntunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaasiel-antunes-1517b41bb/)](https://www.linkedin.com/in/jaasiel-antunes-1517b41bb/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-contato.jaasiel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=jaasiel:contato.jaasiel@gmail.com)](jaasiel:contato.jaasiel@gmail.com)
-
