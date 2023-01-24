@@ -5,7 +5,7 @@ Jaasiel Antunes
 ##
 
 - Busco oportunidades para desenvolver e melhorar habilidades e conhecimentos que já possuo ou ainda não tenho.
-Atualmente estou sempre buscando conhecimentos na parte de Frontend e faço venda de sites estáticos seja pessoal ou comercial.
+Atualmente estou sempre buscando conhecimentos na parte de Backend, me especializando em microservices e faço venda de sites estáticos seja pessoal ou comercial.
 
 - Sou um desenvolvedor em constante desenvolvimento.
 
