@@ -12,7 +12,7 @@ Atualmente estou sempre buscando conhecimentos na parte de Frontend e faço vend
  - Graduando na FAFIC - Faculdade de Filosofia, Ciências e Letras de Cajazeiras;
  - Buscando estágio em desenvolvimento com intuito de melhorar minhas habilidades e obter novos conhecimentos;
  - Conhecimentos Técnicos: HTML5, CSS3, Java, JavaScript, Bootstrap e Flutter;
- - Área que mais gosto: Frontend Web e Mobile;
+ - Área que mais gosto: Web Backend e Mobile;
  - Sobre mim: Entusiasta de tecnologia, gosto de estudar em grupo via discord, a procura de desenvolvimento profissional constante;
  - Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JaasielAntunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaasiel-antunes-1517b41bb/)](https://www.linkedin.com/in/jaasiel-antunes-1517b41bb/) 
 | 
