@@ -7,11 +7,11 @@ Jaasiel Antunes
 - Busco oportunidades para desenvolver e melhorar habilidades e conhecimentos que já possuo ou ainda não tenho.
 Atualmente estou sempre buscando conhecimentos na parte de Frontend e faço venda de sites estáticos seja pessoal ou comercial.
 
-- Sou um programador em constante desenvolvimento.
+- Sou um desenvolvedor em constante desenvolvimento.
 
- - Graduando na FAFIC - Faculdade de Filosofia, Ciências e Letras de Cajazeiras;
+ - Graduando em ciência da computação na Faculdade Católica da Paraíba;
  - Buscando estágio em desenvolvimento com intuito de melhorar minhas habilidades e obter novos conhecimentos;
- - Conhecimentos Técnicos: HTML5, CSS3, Java, JavaScript, Bootstrap e Flutter;
+ - Conhecimentos Técnicos: HTML5, CSS3, Java, JavaScript, Bootstrap, Flutter e Spring Boot;
  - Área que mais gosto: Web Backend e Mobile;
  - Sobre mim: Entusiasta de tecnologia, gosto de estudar em grupo via discord, a procura de desenvolvimento profissional constante;
  - Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JaasielAntunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaasiel-antunes-1517b41bb/)](https://www.linkedin.com/in/jaasiel-antunes-1517b41bb/) 
