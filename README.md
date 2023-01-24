@@ -17,13 +17,12 @@ Atualmente estou sempre buscando conhecimentos na parte de Frontend e faço vend
  - Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JaasielAntunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaasiel-antunes-1517b41bb/)](https://www.linkedin.com/in/jaasiel-antunes-1517b41bb/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-contato.jaasiel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=jaasiel:contato.jaasiel@gmail.com)](jaasiel:contato.jaasiel@gmail.com)
-- Meu Site Pessoal: jaasielantunes.com.br
 
 ##
 
 <div> <br>
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JaasielAntunes&theme=radical&show_icons=true&include_all_commits=true&count_private=true">
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaasielAntunes&theme=radical&layout=compact&langs_count=10&count_private=true">
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JaasielAntunes&show_icons=true&count_private=true&theme=radical&include_all_commits"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaasielAntunes&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 ##
@@ -32,12 +31,13 @@ Atualmente estou sempre buscando conhecimentos na parte de Frontend e faço vend
 - Stacks:
 
 <div style="display: inline_block">
- <img align="center" height="40" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" height="40" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" height="40" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
- <img align="center" height="40" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
- <img align="center" height="40" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
- <img align="center" height="40" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ <img align="center" height="40" width"40" alt="Jaasiel-HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" height="40" width"40" alt="Jaasiel-CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" height="40" width"40" alt="Jaasiel-JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ <img align="center" height="40" width"40" alt="Jaasiel-Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+ <img align="center" height="40" width"40" alt="Jaasiel-Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+ <img align="center" height="40" width"40" alt="Jaasiel-Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ <img align="center" height="55" width"40" alt="Jaasiel-Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">         
 </div>
 
 ##
