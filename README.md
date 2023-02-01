@@ -10,8 +10,7 @@ Atualmente estou sempre buscando conhecimentos na parte de Backend, me especiali
 - Sou entusiasta de tecnologia em constante desenvolvimento.
 
  - Graduando em ciência da computação na Faculdade Católica da Paraíba;
- - Buscando oportunidade de estágio ou Jr em desenvolvimento web com intuito de melhorar minhas habilidades e obter novos conhecimentos, (possuo experiência como
- analista de suporte - estágio com duração de 8 meses);
+ - Buscando oportunidade de estágio ou Jr na área de desenvolvimento web com intuito de melhorar minhas habilidades e obter novos conhecimentos, (possuo experiência como analista de suporte - estágio com duração de 8 meses);
  - Conhecimentos Técnicos: HTML5, CSS3, Java, JavaScript, Bootstrap, Flutter e Spring Boot;
  - Área que mais gosto: Web Backend e Mobile;
  - Sobre mim: Entusiasta de tecnologia, gosto de estudar em grupo via discord, a procura de desenvolvimento profissional constante;
