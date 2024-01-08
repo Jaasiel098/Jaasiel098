@@ -5,15 +5,15 @@ Jaasiel Antunes
 ##
 
 - Busco oportunidades para desenvolver e melhorar habilidades e conhecimentos que já possuo ou ainda não tenho.
-Atualmente estou sempre buscando conhecimentos na parte de Backend, me especializando em microservices com Java e Spring.
+Atualmente estou sempre buscando conhecimentos na parte de Back-end, me especializando em microservices com Java e o framework Spring.
 
-- Sou entusiasta de tecnologia em constante desenvolvimento.
+- Sou um entusiasta de tecnologia da informação em constante desenvolvimento.
 
- - Graduando em ciência da computação na Faculdade Católica da Paraíba;
- - Buscando oportunidade de estágio ou Jr na área de desenvolvimento web com intuito de melhorar minhas habilidades e obter novos conhecimentos, (possuo experiência como analista de suporte - estágio com duração de 8 meses);
+ - Graduado em ciência da computação pela Faculdade Católica da Paraíba (2019-2023);
+ - Buscando oportunidade de estágio ou Jr na área de desenvolvimento de sistemas com intuito de melhorar minhas habilidades e obter novos conhecimentos, (possuo experiência como analista de suporte - estágio com duração de 8 meses na empresa Fênix Tecnologia LTDA);
  - Conhecimentos Técnicos: HTML5, CSS3, Java, JavaScript, Bootstrap, Flutter e Spring Boot;
- - Área que mais gosto: Web Backend e Mobile;
- - Sobre mim: Entusiasta de tecnologia, gosto de estudar em grupo via discord, a procura de desenvolvimento profissional constante;
+ - Áreas que mais gosto: Web Back-end e Mobile;
+ - Sobre mim: Gosto de estudar através de Bootcamps, vídeo aula com mentoria de pessoas consolidadas no mercado de tecnologia da informação, sempre a procura de desenvolvimento profissional constante;
  - Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JaasielAntunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaasiel-antunes-1517b41bb/)](https://www.linkedin.com/in/jaasiel-antunes-1517b41bb/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-contato.jaasiel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=jaasiel:contato.jaasiel@gmail.com)](jaasiel:contato.jaasiel@gmail.com)
