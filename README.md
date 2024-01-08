@@ -4,7 +4,7 @@ Jaasiel Antunes
 
 ##
 
-- Busco oportunidades para desenvolver e melhorar habilidades e conhecimentos que já possuo ou ainda não tenho;
+- Busco oportunidades para desenvolver e melhorar habilidades e conhecimentos que já possuo ou ainda não tenho.
 Atualmente estou sempre buscando conhecimentos na parte de Back-end, me especializando em microservices com Java e o framework Spring;
 
 - Sou um entusiasta de tecnologia da informação em constante desenvolvimento;
