@@ -4,10 +4,10 @@ Jaasiel Antunes
 
 ##
 
-- Busco oportunidades para desenvolver e melhorar habilidades e conhecimentos que já possuo ou ainda não tenho.
-Atualmente estou sempre buscando conhecimentos na parte de Back-end, me especializando em microservices com Java e o framework Spring.
+- Busco oportunidades para desenvolver e melhorar habilidades e conhecimentos que já possuo ou ainda não tenho;
+Atualmente estou sempre buscando conhecimentos na parte de Back-end, me especializando em microservices com Java e o framework Spring;
 
-- Sou um entusiasta de tecnologia da informação em constante desenvolvimento.
+- Sou um entusiasta de tecnologia da informação em constante desenvolvimento;
 
  - Graduado em ciência da computação pela Faculdade Católica da Paraíba (2019-2023);
  - Buscando oportunidade de estágio ou Jr na área de desenvolvimento de sistemas com intuito de melhorar minhas habilidades e obter novos conhecimentos, (possuo experiência como analista de suporte - estágio com duração de 8 meses na empresa Fênix Tecnologia LTDA);
