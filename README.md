@@ -15,7 +15,7 @@ Atualmente estou sempre buscando conhecimentos na parte de Back-end, me especial
  - Soft Skills: Desenvolvimento pessoal, boa comunicação, conduta agradável, trabalho em equipe, proativo, dedicado, aprendo rapidamente, foco em resultado, facilidade
 para se adaptar a qualquer mudança, trabalho com eficiência e responsabilidade, empatia.
  - Áreas que mais gosto: Web Back-end e Mobile;
- - Sobre mim: Gosto de estudar através de Bootcamps, vídeo aula com mentoria de pessoas consolidadas no mercado de tecnologia da informação, sempre a procura de desenvolvimento profissional constante;
+ - Sobre mim: Gosto de estudar através de Bootcamps, vídeo aula com mentoria de pessoas consolidadas no mercado de tecnologia da informação, estou sempre a procura de desenvolvimento profissional constante;
  - Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JaasielAntunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaasiel-antunes-1517b41bb/)](https://www.linkedin.com/in/jaasiel-antunes-1517b41bb/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-contato.jaasiel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=jaasiel:contato.jaasiel@gmail.com)](jaasiel:contato.jaasiel@gmail.com)
