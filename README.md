@@ -11,7 +11,9 @@ Atualmente estou sempre buscando conhecimentos na parte de Back-end, me especial
 
  - Graduado em ciência da computação pela Faculdade Católica da Paraíba (2019-2023);
  - Buscando oportunidade de estágio ou Jr na área de desenvolvimento de sistemas com intuito de melhorar minhas habilidades e obter novos conhecimentos, (possuo experiência como analista de suporte - estágio com duração de 8 meses na empresa Fênix Tecnologia LTDA);
- - Conhecimentos Técnicos: HTML5, CSS3, Java, JavaScript, Bootstrap, Flutter e Spring Boot;
+ - Hard Skills: HTML5, CSS3, Java, JavaScript, Bootstrap, Flutter e Spring Boot;
+ - Soft Skills: Desenvolvimento pessoal, boa comunicação, conduta agradável, trabalho em equipe, proativo, dedicado, aprendo rapidamente, foco em resultado, facilidade
+para se adaptar a qualquer mudança, trabalho com eficiência e responsabilidade, empatia.
  - Áreas que mais gosto: Web Back-end e Mobile;
  - Sobre mim: Gosto de estudar através de Bootcamps, vídeo aula com mentoria de pessoas consolidadas no mercado de tecnologia da informação, sempre a procura de desenvolvimento profissional constante;
  - Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JaasielAntunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaasiel-antunes-1517b41bb/)](https://www.linkedin.com/in/jaasiel-antunes-1517b41bb/) 
