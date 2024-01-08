@@ -11,7 +11,7 @@ Atualmente estou sempre buscando conhecimentos na parte de Back-end, me especial
 
  - Graduado em ciência da computação pela Faculdade Católica da Paraíba (2019-2023);
  - Buscando oportunidade de estágio ou Jr na área de desenvolvimento de sistemas com intuito de melhorar minhas habilidades e obter novos conhecimentos, (possuo experiência como analista de suporte - estágio com duração de 8 meses na empresa Fênix Tecnologia LTDA);
- - Hard Skills: HTML5, CSS3, Java, JavaScript, Bootstrap 4+, Flutter e Spring Boot;
+ - Hard Skills: HTML5, CSS3, Java 11+, JavaScript, Bootstrap 4+, Flutter e Spring Boot;
  - Soft Skills: Desenvolvimento pessoal, boa comunicação, conduta agradável, trabalho em equipe, proativo, dedicado, aprendo rapidamente, foco em resultado, facilidade
 para se adaptar a qualquer mudança, trabalho com eficiência e responsabilidade, empatia.
  - Áreas que mais gosto: Web Back-end e Mobile;
