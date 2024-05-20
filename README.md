@@ -6,6 +6,7 @@ Atualmente estou sempre buscando conhecimentos na parte de Back-end, me especial
  - Soft Skills: Desenvolvimento pessoal, boa comunicação, conduta agradável, trabalho em equipe, proativo, dedicado, aprendo rapidamente, foco em resultado, facilidade
 para se adaptar a qualquer mudança, trabalho com eficiência e responsabilidade, empatia
  - Áreas que me identifico: Backend e Frontend
+ - Recentemente comecei um negócio em sociedade com o Paulo Victor, tivemos a ideia de iniciar um pequeno negócio focado no desenvolvimento de sistemas Web. Visite o nosso site: https://nexus-code.vercel.app
  - Entre em contato: [![Linkedin Badge](https://img.shields.io/badge/-JaasielAntunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaasiel-antunes-1517b41bb/)](https://www.linkedin.com/in/jaasiel-antunes-1517b41bb/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-contato.jaasiel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=jaasiel:contato.jaasiel@gmail.com)](jaasiel:contato.jaasiel@gmail.com)
